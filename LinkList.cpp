@@ -19,6 +19,7 @@ int main(){
 
 	//initially the link list is empty, 
 	//creating empty link list
+	//initially null
 	struct node *head = NULL;
 	//creating a head reference so that i don't lose head pointer
 	//struct node *head_ref = head;
