@@ -11,7 +11,7 @@ struct node{
 
 //a function to insert elements in the linked list
 struct node* insert(struct node *const head, int x);
-//void find(struct node *const head, int x);
+void find(struct node *const head, int x);
 void print_list(struct node *const head);
 
 
@@ -128,3 +128,33 @@ void print_list(struct node *const head){
 
 
 }
+
+void find(struct node *const head, int x){
+
+	//check the boundary condition
+	//if head is null e.g link list is empty
+	// if(head == NULL)
+	// 	cout << "value not found\n";
+
+	//now, that means link list contains atleast one node
+	//now creating a new pointer to traverse link list
+	struct node *traverse = head;
+	bool found = false;
+
+	while(traverse!=NULL){
+
+		if(traverse->data == x){
+			found = true;
+			break;
+		}
+
+		traverse = traverse->next;
+	}
+
+	if(found)
+		cout << "value found at address: "<<traverse<<"\n\n";
+	else
+		cout << "value not found.\n\n";
+
+}
+
