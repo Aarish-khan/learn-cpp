@@ -1,1 +1,1 @@
-A command line game
+A command line game.
