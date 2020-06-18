@@ -15,5 +15,8 @@
 0 &nbsp;&nbsp;&nbsp;&nbsp;  ⛰️ &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0<br>
 0 &nbsp;&nbsp;&nbsp;&nbsp;  ⛰️ &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0<br>
 0 &nbsp;&nbsp;&nbsp;&nbsp;  ⛰️ &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0<br>
-0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp; ⛰️ &nbsp;&nbsp;&nbsp;&nbsp; 0<br>
+0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 &nbsp;&nbsp;&nbsp;&nbsp;  0 &nbsp;&nbsp;&nbsp;&nbsp; ⛰️ &nbsp;&nbsp;&nbsp;&nbsp; 0<br>
 
+**Image for Better Understanding**
+
+<img src="https://github.com/Aarish-khan/learn-cpp/blob/master/ReadWriteFiles/image.PNG" alt="Sample photo">
